@@ -1,4 +1,4 @@
-package main.java.patterns.StrategicPattern.WithObserver;
+package main.java.patterns.StrategicPattern.WithStrategic;
 
 public class Main {
 
@@ -9,5 +9,8 @@ public class Main {
 
         Vehicle passengerVehicle = new PassengerVehicle();
         passengerVehicle.drive();
+
+        OffRoadVehicle offRoadVehicle = new OffRoadVehicle();
+        offRoadVehicle.drive();
     }
 }

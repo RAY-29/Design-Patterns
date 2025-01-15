@@ -1,4 +1,4 @@
-package main.java.patterns.StrategicPattern.WithoutObserver;
+package main.java.patterns.StrategicPattern.WithoutStrategy;
 
 public class OffRoadVehicle extends Vehicle {
 

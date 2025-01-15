@@ -1,4 +1,4 @@
-package main.java.patterns.StrategicPattern.WithObserver.Strategy;
+package main.java.patterns.StrategicPattern.WithStrategic.Strategy;
 
 public class NormalCapability implements DriveStrategy {
     @Override

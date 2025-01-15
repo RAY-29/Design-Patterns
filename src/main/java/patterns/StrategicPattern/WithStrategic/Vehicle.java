@@ -1,6 +1,6 @@
-package main.java.patterns.StrategicPattern.WithObserver;
+package main.java.patterns.StrategicPattern.WithStrategic;
 
-import main.java.patterns.StrategicPattern.WithObserver.Strategy.DriveStrategy;
+import main.java.patterns.StrategicPattern.WithStrategic.Strategy.DriveStrategy;
 
 public class Vehicle {
 
